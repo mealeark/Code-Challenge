@@ -9,11 +9,11 @@ TAPP Code Challenge for Software Engineer Candidates
 
 ## Candidate Information (Fill out with your info)
 
-Name: \<your name>
+Name: \Mealear Khiev
 
-Email: \<your email>
+Email: \mealeark@yahoo.com
 
-Resume: \<link to your resume>
+Resume: \https://gist.github.com/mealeark/6659815f2195ecf06ce29c4d023b677b
 
 ## Intro
 
